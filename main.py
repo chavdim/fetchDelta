@@ -6,9 +6,9 @@ Created on Sun May 20 20:55:52 2018
 @author: chavdar
 """
 
-from main import *
-from main2 import *
-from main3 import *
+from getGlobalAverage import *
+from getZaifRate import *
+from getExchangeRate import *
 import numpy as np
 import time,sys
 
